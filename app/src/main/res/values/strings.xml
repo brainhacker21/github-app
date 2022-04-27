@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Github\'s User App</string>
+    <string name="users_avatar">avatar</string>
+    <string name="users_name">name</string>
+    <string name="users_username">username</string>
+    <string name="users_company">Company</string>
+    <string name="users_location">Location</string>
+    <string name="users_repository">repository</string>
+    <string name="users_follower">Follower</string>
+    <string name="users_following">Following</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear list search</string>
+    <string name="setting">Change language setting</string>
+    <string name="cari_user">Search user</string>
+    <string name="avatar">avatar</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="todo">TODO</string>
+    <string name="github">github</string>
+    <string name="company">company</string>
+    <string name="location">location</string>
+    <string name="followers">Followers</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="welcome">Welcome Github\'s Search App</string>
+    <string name="explore">Explore Users</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dark">Dark Mode</string>
+    <string name="light">Light Mode</string>
+</resources>
